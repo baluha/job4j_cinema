@@ -1,0 +1,2 @@
+insert into halls(name, row_count, place_count, description) values('Левый зал', 10, 15, 'Зал слева от кассы');
+insert into halls(name, row_count, place_count, description) values('Правый зал', 10, 15, 'Зал справа от кассы');

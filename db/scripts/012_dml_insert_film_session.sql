@@ -1,0 +1,1 @@
+insert into film_session(film_id, halls_id, start_time, end_time, price) values('Левый зал', 10, 15, 'Зал слева от кассы');
